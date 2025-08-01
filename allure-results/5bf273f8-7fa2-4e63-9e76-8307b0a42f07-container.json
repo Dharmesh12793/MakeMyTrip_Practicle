@@ -1,0 +1,1 @@
+{"uuid":"5bf273f8-7fa2-4e63-9e76-8307b0a42f07","name":"tests.TestTrainBooking","children":["b18acb7f-9566-4e00-8fc0-a7e8368411f9"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1753942144691,"stop":1753942148918}],"afters":[],"start":1753942144665,"stop":1753942150188}
